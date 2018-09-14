@@ -13,6 +13,7 @@ o aluno somente 3 dias
 
 class Users
 {
+    
     protected $users = array(
         0 => array(
         'nome' => 'jose',
