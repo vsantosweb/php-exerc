@@ -1,6 +1,9 @@
 <?php
 
-
+/*
+Criar um algoritmos que imprima a tabuada
+de um número
+*/
 class Tabuada {
 
     private $produto;
